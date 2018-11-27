@@ -1,0 +1,16 @@
+tn\riadh\controllers\CompteBancaireController.class
+tn\riadh\config\WebMvcConfig.class
+tn\riadh\service\CompteBancaireService.class
+tn\riadh\config\MyAuthenticationSuccessHandler.class
+tn\riadh\controllers\LoginController.class
+tn\riadh\repositories\CompteBancaireRepository.class
+tn\riadh\config\SpringSecurityConfig.class
+tn\riadh\entities\RoleEntity.class
+tn\riadh\repositories\RoleRepository.class
+tn\riadh\config\AppConfig.class
+tn\riadh\service\UserService.class
+tn\riadh\entities\CompteBancaire.class
+tn\riadh\SpringBootWebApplication.class
+tn\riadh\controllers\UserController.class
+tn\riadh\repositories\UserRepository.class
+tn\riadh\entities\UserEntity.class
